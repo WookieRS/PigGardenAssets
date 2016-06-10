@@ -1,0 +1,1084 @@
+fileFormatVersion: 2
+guid: 6a9f42dad4ef1cc4fb70490568d453a3
+timeCreated: 1451939067
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: piggy_idle_0
+    21300002: piggy_idle_1
+    21300004: piggy_idle_2
+    21300006: piggy_idle_3
+    21300008: piggy_idle_4
+    21300010: piggy_idle_5
+    21300012: piggy_idle_6
+    21300014: piggy_idle_7
+    21300016: piggy_idle_8
+    21300018: piggy_idle_9
+    21300020: piggy_idle_10
+    21300022: piggy_idle_11
+    21300024: piggy_idle_12
+    21300026: piggy_idle_13
+    21300028: piggy_idle_14
+    21300030: piggy_idle_15
+    21300032: piggy_idle_16
+    21300034: piggy_idle_17
+    21300036: piggy_idle_18
+    21300038: piggy_idle_19
+    21300040: piggy_idle_20
+    21300042: piggy_idle_21
+    21300044: piggy_idle_22
+    21300046: piggy_idle_23
+    21300048: piggy_idle_24
+    21300050: piggy_idle_25
+    21300052: piggy_idle_26
+    21300054: piggy_idle_27
+    21300056: piggy_idle_28
+    21300058: piggy_idle_29
+    21300060: piggy_idle_30
+    21300062: piggy_idle_31
+    21300064: piggy_idle_32
+    21300066: piggy_idle_33
+    21300068: piggy_idle_34
+    21300070: piggy_idle_35
+    21300072: piggy_idle_36
+    21300074: piggy_idle_37
+    21300076: piggy_idle_38
+    21300078: piggy_idle_39
+    21300080: piggy_idle_40
+    21300082: piggy_idle_41
+    21300084: piggy_idle_42
+    21300086: piggy_idle_43
+    21300088: piggy_idle_44
+    21300090: piggy_idle_45
+    21300092: piggy_idle_46
+    21300094: piggy_idle_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: piggy_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 27}
+        - {x: -14, y: 27}
+        - {x: -41, y: 21}
+        - {x: -41, y: -17}
+        - {x: -30, y: -31}
+        - {x: -22, y: -31}
+        - {x: -20, y: -28}
+        - {x: -20, y: -23}
+        - {x: -20, y: -31}
+        - {x: 30, y: -31}
+        - {x: 44, y: -11}
+        - {x: 44, y: 16}
+    - name: piggy_idle_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 27}
+        - {x: -14, y: 27}
+        - {x: -41, y: 21}
+        - {x: -41, y: -17}
+        - {x: -30, y: -31}
+        - {x: -22, y: -31}
+        - {x: -20, y: -28}
+        - {x: -20, y: -23}
+        - {x: -20, y: -31}
+        - {x: 30, y: -31}
+        - {x: 44, y: -11}
+        - {x: 44, y: 16}
+    - name: piggy_idle_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 27}
+        - {x: -14, y: 27}
+        - {x: -41, y: 21}
+        - {x: -41, y: -17}
+        - {x: -30, y: -31}
+        - {x: -22, y: -31}
+        - {x: -20, y: -28}
+        - {x: -20, y: -23}
+        - {x: -20, y: -31}
+        - {x: 30, y: -31}
+        - {x: 44, y: -11}
+        - {x: 44, y: 16}
+    - name: piggy_idle_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 27}
+        - {x: -14, y: 27}
+        - {x: -41, y: 21}
+        - {x: -41, y: -17}
+        - {x: -30, y: -31}
+        - {x: -22, y: -31}
+        - {x: -20, y: -28}
+        - {x: -20, y: -23}
+        - {x: -20, y: -31}
+        - {x: 30, y: -31}
+        - {x: 44, y: -11}
+        - {x: 44, y: 16}
+    - name: piggy_idle_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 25}
+        - {x: -41, y: 20}
+        - {x: -41, y: -31}
+        - {x: 38, y: -31}
+        - {x: 44, y: -25}
+        - {x: 44, y: 23}
+        - {x: 38, y: 25}
+    - name: piggy_idle_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 25}
+        - {x: -8, y: 25}
+        - {x: -38, y: 21}
+        - {x: -41, y: 20}
+        - {x: -41, y: -7}
+        - {x: -37, y: -27}
+        - {x: -33, y: -31}
+        - {x: 23, y: -31}
+        - {x: 44, y: -12}
+        - {x: 44, y: 16}
+    - name: piggy_idle_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 23}
+        - {x: -42, y: -20}
+        - {x: -34, y: -31}
+        - {x: 32, y: -31}
+        - {x: 43, y: -13}
+        - {x: 43, y: 15}
+        - {x: 36, y: 23}
+    - name: piggy_idle_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 26}
+        - {x: -44, y: 18}
+        - {x: -44, y: 3}
+        - {x: -33, y: -31}
+        - {x: 28, y: -31}
+        - {x: 36, y: -11}
+        - {x: 36, y: 23}
+        - {x: 28, y: 26}
+    - name: piggy_idle_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 28}
+        - {x: -44, y: 16}
+        - {x: -44, y: -8}
+        - {x: -36, y: -26}
+        - {x: -29, y: -31}
+        - {x: 24, y: -31}
+        - {x: 36, y: -6}
+        - {x: 36, y: 24}
+        - {x: 31, y: 28}
+    - name: piggy_idle_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -10}
+        - {x: -36, y: -26}
+        - {x: -31, y: -30}
+        - {x: 26, y: -30}
+        - {x: 35, y: -5}
+        - {x: 35, y: 30}
+        - {x: -21, y: 30}
+        - {x: -44, y: 26}
+    - name: piggy_idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -6}
+        - {x: -36, y: -26}
+        - {x: -34, y: -30}
+        - {x: 27, y: -30}
+        - {x: 35, y: -25}
+        - {x: 35, y: 31}
+        - {x: -2, y: 31}
+        - {x: -44, y: 22}
+    - name: piggy_idle_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 31}
+        - {x: -1, y: 31}
+        - {x: -44, y: 18}
+        - {x: -44, y: 2}
+        - {x: -40, y: -7}
+        - {x: -37, y: -11}
+        - {x: -34, y: -25}
+        - {x: -27, y: -30}
+        - {x: 27, y: -30}
+        - {x: 35, y: -8}
+        - {x: 35, y: 18}
+    - name: piggy_idle_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 31}
+        - {x: -3, y: 28}
+        - {x: -42, y: 18}
+        - {x: -44, y: 17}
+        - {x: -44, y: -13}
+        - {x: -43, y: -30}
+        - {x: 35, y: -30}
+        - {x: 35, y: 31}
+    - name: piggy_idle_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 31}
+        - {x: -43, y: -7}
+        - {x: -31, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -3}
+        - {x: 35, y: 31}
+    - name: piggy_idle_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 25}
+        - {x: 26, y: 25}
+        - {x: 31, y: 28}
+        - {x: 32, y: 31}
+        - {x: -22, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: 2}
+        - {x: -37, y: -27}
+        - {x: -28, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -2}
+        - {x: 35, y: 15}
+        - {x: 32, y: 24}
+    - name: piggy_idle_15
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 31}
+        - {x: -43, y: 25}
+        - {x: -43, y: 2}
+        - {x: -36, y: -27}
+        - {x: -28, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 31}
+    - name: piggy_idle_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 31}
+        - {x: -43, y: 21}
+        - {x: -43, y: 4}
+        - {x: -34, y: -25}
+        - {x: -32, y: -30}
+        - {x: 28, y: -30}
+        - {x: 35, y: -11}
+        - {x: 35, y: 27}
+        - {x: 33, y: 31}
+    - name: piggy_idle_17
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 31}
+        - {x: -2, y: 29}
+        - {x: -42, y: 19}
+        - {x: -43, y: 17}
+        - {x: -43, y: 1}
+        - {x: -32, y: -30}
+        - {x: 28, y: -30}
+        - {x: 35, y: -9}
+        - {x: 35, y: 24}
+        - {x: 32, y: 31}
+    - name: piggy_idle_18
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 31}
+        - {x: -43, y: 25}
+        - {x: -43, y: -14}
+        - {x: -41, y: -30}
+        - {x: 26, y: -30}
+        - {x: 35, y: -5}
+        - {x: 35, y: 25}
+        - {x: 33, y: 31}
+    - name: piggy_idle_19
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 31}
+        - {x: -43, y: 25}
+        - {x: -43, y: -13}
+        - {x: -41, y: -30}
+        - {x: 26, y: -30}
+        - {x: 35, y: -9}
+        - {x: 35, y: 26}
+        - {x: 32, y: 31}
+    - name: piggy_idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 31}
+        - {x: -43, y: 28}
+        - {x: -43, y: -19}
+        - {x: -41, y: -30}
+        - {x: 32, y: -30}
+        - {x: 35, y: -17}
+        - {x: 35, y: 31}
+    - name: piggy_idle_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 31}
+        - {x: -43, y: -17}
+        - {x: -40, y: -29}
+        - {x: -33, y: -30}
+        - {x: 32, y: -30}
+        - {x: 35, y: -15}
+        - {x: 35, y: 31}
+    - name: piggy_idle_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 31}
+        - {x: -43, y: 18}
+        - {x: -43, y: -9}
+        - {x: -34, y: -25}
+        - {x: -27, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 31}
+    - name: piggy_idle_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 31}
+        - {x: -43, y: -3}
+        - {x: -34, y: -25}
+        - {x: -27, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 31}
+    - name: piggy_idle_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 31}
+        - {x: -43, y: 18}
+        - {x: -43, y: -9}
+        - {x: -34, y: -25}
+        - {x: -27, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 31}
+    - name: piggy_idle_25
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 31}
+        - {x: -43, y: 29}
+        - {x: -43, y: -19}
+        - {x: -41, y: -30}
+        - {x: 27, y: -30}
+        - {x: 35, y: -16}
+        - {x: 35, y: 26}
+        - {x: 33, y: 31}
+    - name: piggy_idle_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_27
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_29
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_35
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_36
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_37
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_38
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_39
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_45
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_46
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    - name: piggy_idle_47
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: -14, y: 31}
+        - {x: -43, y: 24}
+        - {x: -43, y: -6}
+        - {x: -40, y: -29}
+        - {x: -32, y: -30}
+        - {x: 25, y: -30}
+        - {x: 35, y: -6}
+        - {x: 35, y: 21}
+        - {x: 34, y: 30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
