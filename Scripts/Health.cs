@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+//Класс, отвечающий за здоровье
 public class Health : MonoBehaviour {
 
 	public float health;
@@ -22,6 +23,7 @@ public class Health : MonoBehaviour {
 		
 		}
 	}
+
 
 	public void DestroyObject(){
 		Destroy(gameObject);
