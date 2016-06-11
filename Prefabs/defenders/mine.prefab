@@ -99,7 +99,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   haveBlood: 0
   haveDust: 0
-  price: 15
+  price: 20
 --- !u!114 &11438668
 MonoBehaviour:
   m_ObjectHideFlags: 1
