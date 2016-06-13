@@ -8,6 +8,7 @@ public class StarDisplay : MonoBehaviour {
 	private Text starText;
 
 	public int starsAmount = 500;
+	public int amountPerFlower = 20;
 	public enum Status {SUCCESS, FAILURE};
 
 	// Use this for initialization
@@ -17,8 +18,8 @@ public class StarDisplay : MonoBehaviour {
 		UpdateStarText ();
 	}
 
-	public void AddStars(int amount){
-		starsAmount += amount;
+	public void AddStars(){
+		starsAmount += amountPerFlower;
 		UpdateStarText ();
 	}
 

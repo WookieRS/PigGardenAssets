@@ -153,7 +153,7 @@ MonoBehaviour:
   speed: 4
   damage: 3
   explosive: 1
-  explosivePrefab: {fileID: 157072, guid: d7bdea8ca4474d44d99ffb478b4c17e3, type: 2}
+  explosivePrefab: {fileID: 153448, guid: c57956ab375866543a06c94da513367a, type: 2}
 --- !u!198 &19856504
 ParticleSystem:
   m_ObjectHideFlags: 1

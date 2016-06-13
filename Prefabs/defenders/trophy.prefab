@@ -45,7 +45,6 @@ GameObject:
   m_Component:
   - 4: {fileID: 437746}
   - 212: {fileID: 21265422}
-  - 114: {fileID: 11482070}
   m_Layer: 0
   m_Name: Body
   m_TagString: Untagged
@@ -60,7 +59,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 149378}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.008955, y: 1.9460354, z: 0}
+  m_LocalPosition: {x: 0.9579015, y: 1.0958307, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 443906}
@@ -135,20 +134,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 20
   haveDeadAnimation: 0
---- !u!114 &11482070
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 192328}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c81704127359e1b4e9d68bce5442f315, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  haveBlood: 0
-  haveDust: 0
-  price: 100
 --- !u!114 &11486484
 MonoBehaviour:
   m_ObjectHideFlags: 1

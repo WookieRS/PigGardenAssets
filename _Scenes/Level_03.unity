@@ -604,55 +604,10 @@ Prefab:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 22418844, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 11486960, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
-      propertyPath: maxLevelTime
-      value: 210
-      objectReference: {fileID: 0}
     - target: {fileID: 11461362, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
-      propertyPath: starsAmount
-      value: 200
+      propertyPath: amountPerFlower
+      value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: 22492670, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 22483526, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 126476, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22483526, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
-      propertyPath: m_AnchoredPosition.x
-      value: 607
-      objectReference: {fileID: 0}
-    - target: {fileID: 22483526, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
-      propertyPath: m_AnchoredPosition.y
-      value: 390
-      objectReference: {fileID: 0}
-    - target: {fileID: 22412164, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
-      propertyPath: m_AnchoredPosition.x
-      value: 470
-      objectReference: {fileID: 0}
-    - target: {fileID: 22412164, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
-      propertyPath: m_AnchoredPosition.y
-      value: 390
-      objectReference: {fileID: 0}
-    - target: {fileID: 110892, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 11409698, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: fc13498d832a979459c7cc07bee9e0d6,
-        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
   m_IsPrefabParent: 0
@@ -706,27 +661,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4fe7ab3920e59554cb3bdc7015f8eb00, type: 2}
   m_IsPrefabParent: 0
---- !u!1 &1832472535 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 129786, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
-  m_PrefabInternal: {fileID: 1722794165}
---- !u!95 &1832472540
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1832472535}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 57f381cd99352c84ba93b12bd61523d0, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &2014439861
 GameObject:
   m_ObjectHideFlags: 0

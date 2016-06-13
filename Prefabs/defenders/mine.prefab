@@ -85,7 +85,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 188097c7c434213449a915dc2222672e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  explosive: {fileID: 157072, guid: d7bdea8ca4474d44d99ffb478b4c17e3, type: 2}
+  explosive: {fileID: 140626, guid: 0f540dd1875a8764a96846dc1b9d0f9c, type: 2}
 --- !u!114 &11435160
 MonoBehaviour:
   m_ObjectHideFlags: 1
