@@ -86,6 +86,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   explosive: {fileID: 140626, guid: 0f540dd1875a8764a96846dc1b9d0f9c, type: 2}
+  explosiveSound: {fileID: 130324, guid: 9f0f7d461ce9faa4cadb31699bfe2066, type: 2}
 --- !u!114 &11435160
 MonoBehaviour:
   m_ObjectHideFlags: 1

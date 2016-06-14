@@ -36,7 +36,7 @@ public class Projectile : MonoBehaviour {
 	void Explode ()	{
 		GameObject explodeClone = Instantiate (explosivePrefab);
 		explodeClone.transform.position = transform.position;
-		Destroy (explodeClone, 0.7f);
+		Destroy (explodeClone, 1.5f);
 	}
 
 	void OnBecameInvisible(){
