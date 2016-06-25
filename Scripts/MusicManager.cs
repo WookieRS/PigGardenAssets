@@ -18,7 +18,9 @@ public class MusicManager : MonoBehaviour {
 	void OnLevelWasLoaded (int level){
 		AudioClip thisLevelMusic = levelMusicArray[level];
 
-		if (thisLevelMusic) {
+		if (level == 7 || level == 1  && music.isPlaying) {
+			return;
+		}else if (thisLevelMusic) {
 			//Если клип существует
 			music.clip = thisLevelMusic;
 			music.loop = true;
