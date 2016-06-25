@@ -30,7 +30,7 @@ public class OptionsController : MonoBehaviour {
 	}
 
 	public void SetDefaults(){
-		volumeSlider.value = 0.85f;
+		volumeSlider.value = 0.3f;
 		difficultSlider.value = 2f;
 		//Screen.SetResolution(1920,1050,true);
 	
