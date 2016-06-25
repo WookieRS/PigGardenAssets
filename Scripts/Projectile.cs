@@ -8,9 +8,9 @@ public class Projectile : MonoBehaviour {
 	public bool explosive = false;
 	public GameObject explosivePrefab;
 
+
 	// Use this for initialization
 	void Start () {
-	
 	}
 	
 	// Update is called once per frame

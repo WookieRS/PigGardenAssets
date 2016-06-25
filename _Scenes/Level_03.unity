@@ -550,6 +550,26 @@ Prefab:
       propertyPath: amountPerFlower
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 8250466, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 2723970aca869c6439ff9e2cbc568943, type: 3}
+    - target: {fileID: 11486960, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
+      propertyPath: maxLevelTime
+      value: 210
+      objectReference: {fileID: 0}
+    - target: {fileID: 8250466, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
+      propertyPath: m_Pitch
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8250466, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
+      propertyPath: m_Volume
+      value: 0.268
+      objectReference: {fileID: 0}
+    - target: {fileID: 11486960, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
+      propertyPath: confetti
+      value: 
+      objectReference: {fileID: 122712, guid: 3fee7167858a61e47922a1bf120d7228, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
   m_IsPrefabParent: 0

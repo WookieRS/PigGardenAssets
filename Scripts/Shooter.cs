@@ -10,11 +10,16 @@ public class Shooter : MonoBehaviour {
 	private Animator animator;
 	private Spawner myLaneSpawner;
 
+	public AudioClip pigGruntSound;
+
+	private AudioSource audioSource;
+
 	
 	// Use this for initialization
 	void Start () {
 		SetMyLaneSpawner();
 
+		audioSource = GetComponent<AudioSource> ();
 		animator = GameObject.FindObjectOfType<Animator>();
 		projectileParent = GameObject.Find("Projectiles");
 		
@@ -65,5 +70,16 @@ public class Shooter : MonoBehaviour {
 
 		newProjectile.transform.parent = projectileParent.transform;
 		newProjectile.transform.position = gun.transform.position;
+
+		PlayLiveSound ();
+	}
+
+	//Plays grunt sometimes
+	void PlayLiveSound(){
+		float random = Random.Range(0, 1f);
+		if (random >= 0.95f) {
+			audioSource.clip = pigGruntSound;
+			audioSource.Play ();
+		}
 	}
 }

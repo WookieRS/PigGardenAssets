@@ -134,6 +134,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 20
   haveDeadAnimation: 0
+  deadSound: {fileID: 110636, guid: 5dd946000fd025f409b408e1af31832c, type: 2}
 --- !u!114 &11486484
 MonoBehaviour:
   m_ObjectHideFlags: 1

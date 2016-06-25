@@ -134,7 +134,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: b75d40ba1123f4242964d79ae9fd3d65, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.247
+  m_Volume: 0.065
   m_Pitch: 0.68
   Loop: 0
   Mute: 0
@@ -227,8 +227,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 4
   damage: 3
-  explosive: 0
-  explosivePrefab: {fileID: 0}
+  explosive: 1
+  explosivePrefab: {fileID: 149712, guid: 6a819318fb33bf54dbe3f767e3035872, type: 2}
 --- !u!198 &19856504
 ParticleSystem:
   m_ObjectHideFlags: 1
