@@ -9,6 +9,8 @@ public class GameTimer : MonoBehaviour {
 	private bool isLevelEnded = false;
 	private GameObject winLabel;
 
+	public GameObject confetti;
+
 	[Tooltip("Время уровня, сек")]
 	public float maxLevelTime;
 	//public float currentLevelTime;
@@ -39,6 +41,7 @@ public class GameTimer : MonoBehaviour {
 		}
 		else if (!isLevelEnded){
 			audioSource.Play ();
+			CreateConfetti ();
 			winLabel.SetActive (true);
 			Invoke ("LoadNextLevel", audioSource.clip.length);
 			isLevelEnded = true;
@@ -50,5 +53,10 @@ public class GameTimer : MonoBehaviour {
 	void LoadNextLevel(){
 		Debug.Log ("Next level");
 		//GameObject.FindObjectOfType<LevelManager>().LoadLevel ("Win");
+	}
+
+	void CreateConfetti(){
+		GameObject confettiClone = Instantiate (confetti);
+		Destroy (confettiClone, 5);
 	}
 }
