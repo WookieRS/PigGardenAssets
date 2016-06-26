@@ -6,9 +6,11 @@ public class OptionsController : MonoBehaviour {
 
 	public Slider volumeSlider;
 	public Slider difficultSlider;
-	public LevelManager levelManager;
+	//public LevelManager levelManager;
 
 	private MusicManager musicManager;
+	private Animator anim;
+	private bool isOptionsShown = false;
 
 
 	// Use this for initialization
@@ -16,6 +18,7 @@ public class OptionsController : MonoBehaviour {
 		musicManager = GameObject.FindObjectOfType<MusicManager>();
 		volumeSlider.value = PlayerPrefsManager.GetMasterVolume();
 		difficultSlider.value = PlayerPrefsManager.GetDifficulty();
+		anim = GetComponent<Animator> ();
 	}
 	
 	// Update is called once per frame
@@ -23,16 +26,21 @@ public class OptionsController : MonoBehaviour {
 		musicManager.SetVolume(volumeSlider.value);
 	}
 
-	public void SaveAndExit(){
+	public void Save(){
 		PlayerPrefsManager.SetMasterVolume (volumeSlider.value);
 		PlayerPrefsManager.SetDifficulty (difficultSlider.value);
-		levelManager.LoadLevel("Start");
+		//levelManager.LoadLevel("Start");
 	}
 
 	public void SetDefaults(){
-		volumeSlider.value = 0.3f;
+		volumeSlider.value = 0.1f;
 		difficultSlider.value = 2f;
 		//Screen.SetResolution(1920,1050,true);
 	
+	}
+
+	public void SwitchOptionsShow(){
+		isOptionsShown = !isOptionsShown;
+		anim.SetBool ("active", isOptionsShown);
 	}
 }
