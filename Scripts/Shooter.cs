@@ -29,10 +29,12 @@ public class Shooter : MonoBehaviour {
 	}
 
 	void Update(){
-		if (IsAttackerAheadInLane()) {
-			animator.SetBool ("isAttacking", true);
-		} else {
-			animator.SetBool ("isAttacking", false);
+		if (animator) {
+			if (IsAttackerAheadInLane()) {
+				animator.SetBool ("isAttacking", true);
+			} else {
+				animator.SetBool ("isAttacking", false);
+			}
 		}
 	}
 

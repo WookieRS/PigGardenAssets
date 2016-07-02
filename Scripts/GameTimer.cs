@@ -20,6 +20,7 @@ public class GameTimer : MonoBehaviour {
 		slider = GetComponent<Slider>();
 		slider.maxValue = maxLevelTime;
 		audioSource = GetComponent<AudioSource>();
+		audioSource.volume = PlayerPrefsManager.GetMasterVolume ();
 		winLabel = GameObject.Find ("WinButton");
 		winLabel.SetActive (false);
 

@@ -278,7 +278,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e56e94e7c3bc20458f8e9b26b0ace93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  seenEverySeconds: 7
+  seenEverySeconds: 4
   damage: 1
   haveKnife: 0
   blood: {fileID: 154200, guid: 114eb585bb1690643b548cd8b82867ae, type: 2}

@@ -19,6 +19,9 @@ public class OptionsController : MonoBehaviour {
 		volumeSlider.value = PlayerPrefsManager.GetMasterVolume();
 		difficultSlider.value = PlayerPrefsManager.GetDifficulty();
 		anim = GetComponent<Animator> ();
+		if (PlayerPrefsManager.GetMasterVolume() == 0) {
+			SetDefaults ();
+		}
 	}
 	
 	// Update is called once per frame
@@ -28,12 +31,12 @@ public class OptionsController : MonoBehaviour {
 
 	public void Save(){
 		PlayerPrefsManager.SetMasterVolume (volumeSlider.value);
-		PlayerPrefsManager.SetDifficulty (difficultSlider.value);
+		PlayerPrefsManager.SetDifficulty (Mathf.RoundToInt(difficultSlider.value));
 		//levelManager.LoadLevel("Start");
 	}
 
 	public void SetDefaults(){
-		volumeSlider.value = 0.1f;
+		volumeSlider.value = 0.4f;
 		difficultSlider.value = 2f;
 		//Screen.SetResolution(1920,1050,true);
 	

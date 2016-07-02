@@ -247,10 +247,10 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: ccaeb64ad73951946bd8320bfb2160d9, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 2723970aca869c6439ff9e2cbc568943, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.495
-  m_Pitch: 0.48
+  m_Volume: 0.224
+  m_Pitch: 1
   Loop: 0
   Mute: 0
   Spatialize: 0
@@ -565,7 +565,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77dcabb5c24cd8f4aae2c78eb9d38643, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  starsAmount: 200
+  starsAmount: 150
 --- !u!114 &11463512
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -743,7 +743,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27549b2b4d5c2404f8c1a9c8a7004774, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxLevelTime: 210
+  confetti: {fileID: 122712, guid: 3fee7167858a61e47922a1bf120d7228, type: 2}
+  maxLevelTime: 120
 --- !u!114 &11493788
 MonoBehaviour:
   m_ObjectHideFlags: 1

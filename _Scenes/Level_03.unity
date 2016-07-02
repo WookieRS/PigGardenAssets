@@ -548,7 +548,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11461362, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
       propertyPath: amountPerFlower
-      value: 10
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 8250466, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
       propertyPath: m_audioClip
@@ -570,6 +570,10 @@ Prefab:
       propertyPath: confetti
       value: 
       objectReference: {fileID: 122712, guid: 3fee7167858a61e47922a1bf120d7228, type: 2}
+    - target: {fileID: 11461362, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
+      propertyPath: starsAmount
+      value: 200
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: aff6c75712fbd464ab80d786afb77ac4, type: 2}
   m_IsPrefabParent: 0

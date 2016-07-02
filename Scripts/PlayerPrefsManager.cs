@@ -40,16 +40,16 @@ public class PlayerPrefsManager : MonoBehaviour {
 		}
 	}
 
-	public static void SetDifficulty (float difficulty){
-		if (difficulty >= 1f && difficulty <= 3f) {
-			PlayerPrefs.SetFloat (DIFFICULTY_KEY, difficulty);
+	public static void SetDifficulty (int difficulty){
+		if (difficulty >= 1 && difficulty <= 3) {
+			PlayerPrefs.SetInt (DIFFICULTY_KEY, difficulty);
 		} else {
 			Debug.LogError ("Difficulty out of range (1-3)");
 		}
 	}
 
-	public static float GetDifficulty (){
-		return PlayerPrefs.GetFloat(DIFFICULTY_KEY);
+	public static int GetDifficulty (){
+		return PlayerPrefs.GetInt(DIFFICULTY_KEY);
 	}
 
 

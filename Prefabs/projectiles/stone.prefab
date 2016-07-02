@@ -226,7 +226,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 4
-  damage: 3
+  damage: 2
   explosive: 1
   explosivePrefab: {fileID: 149712, guid: 6a819318fb33bf54dbe3f767e3035872, type: 2}
 --- !u!198 &19856504

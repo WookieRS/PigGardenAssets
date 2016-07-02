@@ -87,6 +87,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 50
   haveDeadAnimation: 0
+  deadSound: {fileID: 183204, guid: 31f4fdbc21eae72459f2f114d83237ac, type: 2}
 --- !u!114 &11482070
 MonoBehaviour:
   m_ObjectHideFlags: 1

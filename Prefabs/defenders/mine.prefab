@@ -100,7 +100,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   haveBlood: 0
   haveDust: 0
-  price: 20
+  price: 30
 --- !u!114 &11438668
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -114,6 +114,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 10
   haveDeadAnimation: 0
+  deadSound: {fileID: 183204, guid: 31f4fdbc21eae72459f2f114d83237ac, type: 2}
 --- !u!212 &21250902
 SpriteRenderer:
   m_ObjectHideFlags: 1

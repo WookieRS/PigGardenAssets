@@ -20,7 +20,12 @@ public class MusicManager : MonoBehaviour {
 
 		if (level == 7 || level == 1  && music.isPlaying) {
 			return;
-		}else if (thisLevelMusic) {
+		}else if (level == 6) {
+			music.clip = thisLevelMusic;
+			music.loop = false;
+			music.Play();
+
+		}	else if (thisLevelMusic) {
 			//Если клип существует
 			music.clip = thisLevelMusic;
 			music.loop = true;
